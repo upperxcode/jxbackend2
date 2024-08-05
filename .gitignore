@@ -1,0 +1,9 @@
+# ignore ALL files in ANY directories
+# Ignorar qualquer diretório chamado include em qualquer nível
+**/include/
+
+# Ignorar qualquer diretório chamado .cache em qualquer nível
+**/.cache/
+
+**/build/
+**/_.vscode/

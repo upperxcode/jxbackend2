@@ -1,0 +1,9 @@
+#pragma once
+
+#include "fields/boolfield.h"
+#include "fields/charfield.h"
+#include "fields/datetimefield.h"
+#include "fields/floatfield.h"
+#include "fields/integerfield.h"
+#include "fields/moneyfield.h"
+#include "fields/stringfield.h"

@@ -1,0 +1,2 @@
+
+option('enable_pg', type: 'boolean', value: true, description: 'Enable PostgreSQL support')

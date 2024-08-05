@@ -1,0 +1,5 @@
+#pragma once
+
+#include "cas_route.h"           // IWYU pragma: export
+#include "dcb_route.h"           // IWYU pragma: export
+#include "produto_route.h"       // IWYU pragma: export
